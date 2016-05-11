@@ -1,4 +1,4 @@
-tmp*
+tmpfile
 .DS_Store
 *.zip
 *.gz
